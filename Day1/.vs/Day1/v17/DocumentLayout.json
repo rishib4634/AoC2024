@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bandy\\Interest\\AoC2024\\Day1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2B8483-AAD3-473D-846C-5C796B5E5E75}|Day1\\Day1.csproj|c:\\users\\bandy\\interest\\aoc2024\\day1\\day1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2B8483-AAD3-473D-846C-5C796B5E5E75}|Day1\\Day1.csproj|solutionrelative:day1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2B8483-AAD3-473D-846C-5C796B5E5E75}|Day1\\Day1.csproj|c:\\users\\bandy\\interest\\aoc2024\\day1\\day1\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9C2B8483-AAD3-473D-846C-5C796B5E5E75}|Day1\\Day1.csproj|solutionrelative:day1\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Input.txt",
+              "DocumentMoniker": "C:\\Users\\bandy\\Interest\\AoC2024\\Day1\\Day1\\Input.txt",
+              "RelativeDocumentMoniker": "Day1\\Input.txt",
+              "ToolTip": "C:\\Users\\bandy\\Interest\\AoC2024\\Day1\\Day1\\Input.txt",
+              "RelativeToolTip": "Day1\\Input.txt",
+              "ViewState": "AQIAAM4DAAAAAAAAAAAUwOcDAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-01T14:06:36.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bandy\\Interest\\AoC2024\\Day1\\Day1\\Program.cs",
+              "RelativeDocumentMoniker": "Day1\\Program.cs",
+              "ToolTip": "C:\\Users\\bandy\\Interest\\AoC2024\\Day1\\Day1\\Program.cs",
+              "RelativeToolTip": "Day1\\Program.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAACwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T13:58:19.923Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
